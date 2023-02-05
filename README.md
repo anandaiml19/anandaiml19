@@ -28,7 +28,7 @@
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/tableau-software.png"/> </a> 
 
   
-<a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/bss2.png"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/pandas2.png"/> </a>
+<a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/bss22.png"/> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/pandas2.png"/> </a>
 <a href="https://docs.scrapy.org/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/scar.png"/> </a>
 <a href="https://selenium-python.readthedocs.io/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/se2.png/"/> </a>
   
