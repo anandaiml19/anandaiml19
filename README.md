@@ -26,3 +26,8 @@
 <a href="https://www.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/microsoft-excel-2019.png"/> </a>
 <a href="https://app.powerbi.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/power-bi.png"/> </a>
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/tableau-software.png"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/beaas.png"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/pandas2.png"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/scar.png"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://https://github.com/anandaiml19/anandaiml19/blob/main/images%201/se2.png/"> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/tableau-software.png"/> </a>
