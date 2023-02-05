@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img width="20%" height="auto" src="https://github.com/anandaiml19/Subscription-Dashboard-for-365-Data-Science-EduTech-Platform-using-Tableau-SQL-and-Excel/blob/main/Images/data%20logo.png" height="175px"/></a>
+<h1 align="center"><a href="#"><img width="25%" height="auto" src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/main.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anand</h1>
 <h3 align="center">I'm a Aspiring Data Analyst from India.</h3>
