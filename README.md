@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#"><img width="25%" height="auto" src="https://github.com/anandaiml19/anandaiml19/blob/main/images%201/main.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anand</h1>
-<h3 align="center">I'm a Aspiring Data Analyst from India.</h3>
+<h3 align="center">I'm a Aspiring Data Scientist from India.</h3>
 
 
 ##  About Me
@@ -36,7 +36,7 @@
 ## Connect with me:
 
 <p align="left"> <a href="https://twitter.com/drkrishnaanand_/" target="blank"><img src="https://img.shields.io/twitter/follow/Drkrishnaanand_?logo=twitter&style=for-the-badge" alt="Drkrishnaanand_" /></a> </p>
- <a href="https://www.instagram.com/kakrishnaanand/" target="blank"><img align="center" src="https://img.shields.io/badge/-@Drkrishnaanand_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kakrishnaanand/" alt="drkrishnaanand_" height="35" width="130" /></a>
+ <a href="https://www.instagram.com/kakrishnaanand/" target="blank"><img align="center" src="https://img.shields.io/badge/-@Drkrishnaanand_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/kakrishnaanand/" alt="drkrishnaanand_" height="25" width="100" /></a>
   
 <a href="https://www.linkedin.com/in/drkrishnaanand" target="blank"><img align="center" src="https://img.shields.io/badge/-Drkrishnaanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/dr-krishna-anand-v-g-70bba623/" alt="Drkrishnanand" height="20" width="100" /></a>
   
